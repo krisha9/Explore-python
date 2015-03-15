@@ -1,0 +1,32 @@
+git workflow
+configure fithub/bitbucket
+workflow
+git init
+git add -A
+git commit -m "Initial commit"
+git push origin master
+
+
+
+git status  command execute
+init
+create-----a.py 
+add------------git add a.py
+commit -------git commit -m "1st commit"
+git commit
+
+push----------git push origin master
+
+
+modified and ntracked file
+
+
+
+git init .
+touch a.py
+echo "print (hello world")"
+>a.py
+git add a.py/git add -A.
+
+git commit -m "my first commit"
+git push origin master----internet dependent
