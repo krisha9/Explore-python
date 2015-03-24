@@ -1,5 +1,6 @@
 git workflow
-configure fithub/bitbucket
+configure github/bitbucket
+
 workflow
 git init
 git add -A
@@ -18,15 +19,13 @@ git commit
 push----------git push origin master
 
 
-modified and ntracked file
+modified and untracked file(red colour)
 
 
-
+COMMAND TO BE EXECUTED ON THE TEMINAL TO PUSH YOUR FILE TO GITHUB
 git init .
 touch a.py
-echo "print (hello world")"
->a.py
+echo "print (hello world")">a.py
 git add a.py/git add -A.
-
 git commit -m "my first commit"
-git push origin master----internet dependent
+git push origin master
